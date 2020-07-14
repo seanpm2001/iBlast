@@ -1,0 +1,40 @@
+<!-- Start of script !-->
+<xml>
+  <usr>
+    <myLevels>
+      <title = "My levels"></title>
+      <levelList>
+        <world1 = "World 1 (untitled1)"></world1>
+          <w1URL = "//"></w1URL>
+          <w1thumbnail = "//.png"></w1thumbnail>
+          <w1dateModified = "Thursday, January 1st 1970 @uxe000000000000000000000000"></w1dateModified>
+          <w1dateCreated = "Thursday, January 1st 1970 @uxe000000000000000000000000"></w1dateCreated>
+          <w1solvable = "False"></w1solvable>
+          <w1playTime = "@uxe000000000000000000000000"></w1playTime>
+        <world2 = "World 2 (untitled2)"></world2>
+          <w2URL = "//"></w2URL>
+        <world3 = "World 3 (untitled3)"></world3>
+          <w3URL = "//"></w3URL>
+        <world4 = "World 4 (untitled4)"></world4>
+        <world5 = "World 5 (untitled5)"></world5>
+        <world6 = "World 6 (untitled6)"></world6>
+        <world7 = "World 7 (untitled7)"></world7>
+        <world8 = "World 8 (untitled8)"></world8>
+        <world9 = "World 9 (untitled9)"></world9>
+        <world10 = "World 10 (untitled10)"></world10>
+        <world11 = "World 11 (untitled11)"></world11>
+        <world12 = "World 12 (untitled12)"></world12>
+        <world13 = "World 13 (untitled13)"></world13>
+        <world14 = "World 14 (untitled14)"></world14>
+        <world15 = "World 15 (untitled15)"></world15>
+        <world16 = "World 16 (untitled16)"></world16>
+        <world17 = "World 17 (untitled17)"></world17>
+        <world18 = "World 18 (untitled18)"></world18>
+        <world19 = "World 19 (untitled19)"></world19>
+        <world20 = "World 20 (untitled20)"></world20>
+        <!-- More level slots will be added another time !-->
+      </levelList>
+    </myLevels>
+  </usr>
+</xml>
+<!-- End of script !-->

@@ -1,0 +1,18 @@
+<!-- Start of script !-->
+<xml>
+  <level_editor>
+    <scenery>
+      <shrubs>
+        <greenBush = "Green bush - The standard bush for your levels"></greenbush>
+      </shrubs>
+      <statues>
+        <totem_pole = "Totem pole - A sacred tradition to place in your levels"></totem_pole>
+        <tiki_head = "Tiki head - A Tiki head to place in your levels"></tiki_head>
+      </statues>
+      <rocks>
+        <smallBoulder = "Small boulder - A small boulder for your level"></smallBoulder>
+      </rocks>
+    </scenery>
+  </level_editor>
+</xml>
+<!-- End of script !-->

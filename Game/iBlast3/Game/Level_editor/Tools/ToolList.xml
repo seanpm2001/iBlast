@@ -1,0 +1,37 @@
+<!-- Start of script !-->
+<xml>
+  <toolList>
+    <bombs>
+      <bomb = "Bomb - Blasts the Moki"></bomb>
+      <speedBomb = "Speed bomb - Adds orange slime to the ground that makes Mokis slide faster when rolling through it"></speedBomb>
+      <jumpBomb = "Jump bomb - Adds pink slime to the ground that makes Mokis bounce up when touched">/jumpBomb>
+      <glueBomb = "Glue bomb - Makes the Moki stick to an object/the ground"></glueBomb>
+      <waterBomb = "Water bomb - Fills an area with water, and or puts out fire/turns lava into a safe obsidian path"></waterbomb><!-- This is exclusive to iBlast 3 !-->
+      <lavaBomb = "Lava bombs - Fills an area with lava"></lavabomb><!-- This is exclusive to iBlast 3 !-->
+    </bombs>
+    <connectors>
+      <bolt = "Bolt - Connects items to itself"></bolt>
+      <rope = "Rope - Connects items to other items"></rope>
+      <chain = "Chain - Connects items to other items, but is more durable, and can carry heavier items"></chain><!-- This is exclusive to iBlast 3 !-->
+    </connectors>
+    <mechanical>
+      <gearWheel = "Gear wheel - Infinitely rolls and carries objects with it"></gearWheel>
+    </mechanical>
+    <air>
+      <leatherBalloon = "Leather balloon - A bigger balloon that can carry more weight"></leatherBalloon>
+      <redBalloon = "Red balloon - A normal balloon that is painted red"></redBalloon><!-- Having separate balloons by color is exclusive to iBlast 3 !-->
+      <blueBalloon = "Blue balloon - A normal balloon that is painted blue"></blueBalloon><!-- Having separate balloons by color is exclusive to iBlast 3 !-->
+      <greenBalloon = "Green balloon - A normal balloon that is painted green"></greenBalloon><!-- Having separate balloons by color is exclusive to iBlast 3 !-->
+      <yellowBalloon = "Yellow balloon - A normal balloon that is painted yellow"></yellowBalloon><!-- Having separate balloons by color is exclusive to iBlast 3 !-->
+      <magentaBalloon = "Magenta balloon - A normal balloon that is painted magenta"></magentaBalloon><!-- Having separate balloons by color is exclusive to iBlast 3 !-->
+      <purpleBalloon = "Purple balloon - A normal balloon that is painted purple"></purpleBalloon><!-- Having separate balloons by color is exclusive to iBlast 3, also purple balloons are exclusive to iBlast Moki 3 !-->
+      <orangeBalloon = "Orange balloon - A normal balloon that is painted orange, and drops a speed bomb when popped"></orangeBalloon><!-- Having separate balloons by color is exclusive to iBlast 3, also orange balloons are exclusive to iBlast Moki 3 !-->
+      <pinkBalloon = "Pink balloon - A normal balloon that is painted pink, and drops a jump bomb when popped"></pinkBalloon><!-- Having separate balloons by color is exclusive to iBlast 3, also orange balloons are exclusive to iBlast Moki 3 !-->
+       <limeBalloon = "Lime balloon - A normal balloon that is painted lime, and drops a glue bomb when popped"></limeBalloon><!-- Having separate balloons by color is exclusive to iBlast 3, also lime balloons are exclusive to iBlast Moki 3 !-->
+    </air>
+    <platforms>
+      <metalTube = "Metal tube - The default metal tube connector from the first 2 games, usable as a platform to make bridges, walls, and more."></metalTube>
+    </platforms>
+  </toolList>
+</xml>
+<!-- End of script !-->

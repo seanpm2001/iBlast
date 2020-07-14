@@ -1,0 +1,42 @@
+Ideas for iBlast Moki 3
+▪ Volcano island - A set of puzzles focused on the new Lava, and fire elements
+▪ Green meadows - The first set of levels, a tutorial
+▪ Painters palace - A set of levels focused on combinations of various color bombs (sticky, jump, speed, etc)
+▪ Red desert - A set of levels focused on desert themed puzzles
+▪ Cityscape - A set of levels focused on metro themed puzzles above a city, one level should be reference to the construction workers eating lunch thousands of feet in the air picture
+▪ The Vinelands - A set of levels focused on sprouting plants to solve puzzles, such as beanstock elevators, platforms for launching, etc.
+▪ Coral Reef - A set of levels focused on underwater mechanics to solve puzzles
+▪ Motonica - A set of levels based on high-end city technology (steam city 2)
+▪ Pirate bay - A set of sea level water levels focused on ship building and transport to solve levels
+▪ Meridan caverns - A set of cave theme levels, where light has to be applied via puzzle, and objects have to be mined with TNT. All puzzles are cave themed, there is even a railroad
+▪ Icy snow mountains - A set of courses that are arctic themed, with icy and snowy puzzles to solve
+▪ Induland 2 - A new version of Induland (second to last set of levels in the original first game) with new challenges
+▪ Mokitozer 2 - A new version of Mokitozer (last set of levels in the original first game) with new challenges
+▪ Blowing land 2 - A new version of the blowingland (second set of levels in the original fiest game) chapter, with new challenges and puzzles
+▪ Moon base beta - A set of outer space theme levels, where you have to solve puzzles at zero gravity. The name is a parody of the name of the NASA game, Moonbase alpha
+▪ Mokinsanity - A set of the most overdone levels, such as thousands of Mokis on a single screen
+[15+0=15 chapters]
+■ Around the world
+▪ Asia - A set of courses themed around Asian countries and their cities
+▪ Europe - A set of courses themed around European countries and their cities
+▪ North America - A set of courses themed around North American countries and their cities
+▪ South America - A set of courses themed around South American countries and their cities
+▪ Africa - A set of courses themed around African countries and their cities
+▪ Antarctica - A set of courses themed around antarctica
+▪ Oceania - A set of courses themed around Oceanic countries, and their cities
+[15+7=22 chapters]
+■ Seasons
+▪ Add this in on your own
+💡 Include sample images of iBlast Moki 1 & 2
+⚙ Turn weather on and off
+🗿 Add costumes, customize, recolor Mokis
+▪ Different portal colors
+▪ Expiring portals
+▪ Lava
+▪ Fire
+▪ The return of the big Moki, alongside the Jelly Moki
+▪ Obsidian
+▪ Magma
+▪ Steam
+▪ Smoke
+▪ Toxic waste

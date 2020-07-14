@@ -1,0 +1,11 @@
+<!-- Start of script !-->
+<xml>
+  <adventure_mode>
+    <world_title = "Green meadows"></world_title>
+    <world1>
+      <world_description = "A place to learn about the mission"></world_description>
+      <level_count = "unknown">
+    </world1>
+  </adventure_moded>
+</xml>
+<!-- End of script !-->

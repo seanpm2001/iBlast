@@ -7,7 +7,7 @@
 
 ### Chapters in iBlast 2
 
-#### Noki Forest
+#### Moki Forest
 
 Moki Forest is the first chapter of iBlast Moki 2/iBlast 2. It is basically the game tutorial chapter. The environment is a grassy forest area, where simple puzzles are implemented to teach the player the basics of the game. It is followed by the Red Desert. Also, upon 100% completion of the chapter (getting all 60 stars) you can unlock the forgotten woods chapter (which only contains 5 levels)
 
@@ -46,9 +46,9 @@ The regular bomb is the first puzzle item in this chapter. This puzzle introduce
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `1 (2022, Saturday, August 6th at 4:22 pm PST)`
+**File version:** `2 (2022, Saturday, August 6th at 4:30 pm PST)`
 
-**Line count (including blank lines and compiler line):** `89`
+**Line count (including blank lines and compiler line):** `102`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -68,7 +68,7 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 <details><summary><p lang="en"><b>Click/tap here to expand/collapse the file history section for this project</b></p></summary>
 
-<details><summary><p lang="en"><b>Version 1 (2022, Thursday, August 4th at 4:22 pm PST)</b></p></summary>
+<details><summary><p lang="en"><b>Version 2 (2022, Saturday, August 6th at 4:22 pm PST)</b></p></summary>
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
 
@@ -80,6 +80,19 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - [x] Added the `file info` section
 - [x] Added the `file history` section
 - [ ] No other changes in version 1
+
+</details>
+
+<details><summary><p lang="en"><b>Version 2 (2022, Saturday, August 6th at 4:30 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Fixed 2 typos
+- [x] Updated the `file info` section
+- [x] Updated the `file history` section
+- [ ] No other changes in version 2
 
 </details>
 

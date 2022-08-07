@@ -1,0 +1,113 @@
+`iBlast Docs unformatted
+
+Multiple engines
+
+iBlast will use multiple engines. By default, desktop platforms will use the GoDot platform, but will offer versions in different engines. There is currently no decided on engines for Android and iOS/iPadOS
+
+iBlast
+
+iBlast is the spiritual successor to iBlast Moki, a 2009 puzzle video game by now defunct French video game studio Godzilab. iBlast is a recreation of the original game, with a focus on open source, stability, and cross platform play.
+In the game, the player must use puzzle strategies to get the Moki to the portal at the end of the level to send it back home. The game also features a level editor.
+
+iBlast 2
+
+iBlast 2 is the spiritual successor to iBlast Moki 2, a 2011 puzzle video game by Godzilab. iBlast 2 is a recreation of the original second game, with a focus on open source, stability, and cross platform play.
+The game has the same objectives as iBlast Moki 1, but features new regions, new graphics, new puzzle elements (such as the glue bomb, paint bomb, and speed bombs) and more. As like the first game, the game features a level editor.
+
+iBlast 3
+
+iBlast 3 is an experimental spiritual successor update to iBlast Moki 2, which aims to be an overall and expanded upgrade over (iBlast Moki/iBlast)/(iBlast Moki 2/iBlast 2) it is still in 2D. iBlast 3D is its successor, which aims to experiment with 3D gameplay.
+
+iBlast 3D
+
+iBlast 3D is an experimental remake of iBlast Moki that focuses on 3D gameplay. It is not to be confused with iBlast 3.
+
+Game stability
+
+The original iBlast Moki games were for the most part stable, except for the level editor, where I (seanpm2001) noted that the level editor would frequenly crash upon performing certain edits, or editing for more than an hour at a time. The crash would only erase a small amount of progress.
+With iBlast, I have a focus on stability. The level editor should not crash, and if it does, it should crash as infrequently as possible.
+
+Level editor
+
+The level editor is the built-in tool in the iBlast and iBlast Moki games. It allows the creation and testing of levels in the game. Level editors are nearly limitless, the limitation is the size of the data file, and time it takes to go through the level.
+
+Moki
+
+The Moki is the main protagonist of the iBlast and iBlast Moki series. The Moki is an indestructable round critter that is trying to find its way home. It also comes in giant (iBlast 1, 3, 3D) and jelly (iBlast 2, 3, 3D) forms.
+Variations: images
+
+The size of the Moki cannot be changed. The size is fixed.
+
+Bomb
+
+The bomb is a puzzle element that blasts the Moki. Despite being explosive, it does not harm the Moki. The bomb can be set to go off after a certain amount of time, clearing objects and pushing the Moki forward or backwards. It is the first and main puzzle element in the set of games. It is present in all iBlast and iBlast Moki games.
+A certain number of bombs are available per level, so they must be used strategically to get the Moki to the portal in the shortest time possible.
+
+The size of the bomb cannot be changed, neither can any of the other puzzle elements. The size is fixed
+
+Rope
+
+The rope is a puzzle element that connects other puzzle objects, along with non-fixed level objects and even the Moki itself to another. Despite tying the mouth closed, it does not harm the Moki. It is one of the first puzzle elements in the game series, and is present in all iBlast and iBlast Moki games.
+A certain number of rope pieces are available per level, so they must be used strategically to get the Moki to the portal in the shortest time possible.
+
+The size of the rope cannot be changed, neither can any of the other puzzle elements, although it can be stretched out a certain distance. The size is mostly fixed.
+
+Portal
+
+The portal is the end goal of each level. Only 1 portal can be placed per level. All Mokis must enter the portal to complete the level.
+
+The size of the portal can be changed, but it does have a small size limit and a large size limit. The smallest size is 1/4 of the size of a normal Moki (which all Mokis can still fit in 1 at a time) while the maximum size is about the size of 256 jelly/large Mokis.
+
+The portal will disappear once all Mokis enter it.
+
+The portal has a distinctive red color, and is an animated object.
+
+Rubber balloon
+
+The rubber balloon is a puzzle element that connects to rope, or goes independent of other puzzle objects. It is used to lift Mokis and other objects. It can be connected via rope. The rubber balloon is vulnerable to sharp objects, where it will be popped. and moves at a fixed speed. It was introduced in the first iBlast Moki game, and is present in all iBlast/iBlast Moki games.
+
+The size of the balloon cannot be changed. The size is fixed. Starting with iBlast 2/iBlast Moki 2, the balloon comes in a few different colors, while before this, it only came in the color red.
+
+Leather balloon
+
+The leather balloon is a puzzle element that connects to rope, or goes independent of other puzzle objects. It is used to lift Mokis and other objects. It can be connected via rope. The rubber balloon is vulnerable to sharp objects, where it will be popped. and moves at a faster speed. It was introduced in the second iBlast Moki game, and is present in all iBlast 2 and up, and iBlast Moki 2. It can carry more weight than the rubber balloon.
+
+The size of the balloon cannot be changed. The size is fixed. It is double the size of the rubber balloon. It is available in only 1 color scheme.
+
+Speed bomb
+
+Unofficial name. The speed/haste bomb is a puzzle element that adds slippery orange liquid to the area where it explodes. Despite being explosive, it does not harm the Moki. The bomb can be set to go off after a certain amount of time, causing the slippery effect. Unlike the normal bomb, the speed bomb cannot push objects through its explosive impact. It is the second puzzle element in iBlast Moki 2/iBlast 2. It is present in iBlast Moki 2/iBlast 2, 3, and 3D. When objects touch it, they accelerate forward or backwards, depending on the direction they are in upon touching the slippery orange substance.
+
+A certain number of speed bombs are available per level, so they must be used strategically to get the Moki to the portal in the shortest time possible.
+
+The size of the speed bomb cannot be changed, neither can any of the other puzzle elements. The size is fixed
+
+Jump bomb
+
+Unofficial name. The jump/bounce bomb is a puzzle element that adds bouncy pink liquid to the area where it explodes. Despite being explosive, it does not harm the Moki. The bomb can be set to go off after a certain amount of time, causing the bounce effect. Unlike the normal bomb, the jump bomb cannot push objects through its explosive impact. It is the third puzzle element in iBlast Moki 2/iBlast 2. It is present in iBlast Moki 2/iBlast 2, 3, and 3D. When objects touch it, they jump upwards or downwards, depending on the direction they are in upon touching the bouncy pink substance.
+
+A certain number of jump bombs are available per level, so they must be used strategically to get the Moki to the portal in the shortest time possible.
+
+The size of the jump bomb cannot be changed, neither can any of the other puzzle elements. The size is fixed
+
+Glue bomb
+
+The glue bomb is a puzzle element that adds sticky green liquid to the area where it explodes. Despite being explosive, it does not harm the Moki. The bomb can be set to go off after a certain amount of time, causing the sticky effect. Unlike the normal bomb, the jump bomb cannot push objects through its explosive impact. It is the fourth puzzle element in iBlast Moki 2/iBlast 2. It is present in iBlast Moki 2/iBlast 2, 3, and 3D. When objects touch it, they get stuck to it, until a normal bomb releases them. All moving objects can get stuck to the glue.
+
+A certain number of glue bombs are available per level, so they must be used strategically to get the Moki to the portal in the shortest time possible.
+
+The size of the glue bomb cannot be changed, neither can any of the other puzzle elements. The size is fixed
+
+Wheel
+
+The wheel is a 
+
+Music
+
+Jelly Moki
+
+Giant Moki
+
+Induland
+
+

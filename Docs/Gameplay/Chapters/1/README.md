@@ -9,6 +9,8 @@
 
 #### List
 
+( **Preceded by:** [`Position established`](/Docs/Gameplay/Chapters/) | **Current:** `Chapter 1 (iBlast Moki 1)` | **Succeeded by:** [`Chapter 2 (iBlast 2)`](/Docs/Gameplay/Chapters/2/) )
+
 | Stage # | First iBlast Moki appearance | First iBlast appearance | Stage name | Level count |
 |---|---|---|---|---|
 | 1 | iBlast Moki | iBlast | [Mokiland](/Docs/Gameplay/Chapters/1/Mokiland/) | 10 |
@@ -33,9 +35,15 @@
 
 [iBlast Moki](/Docs/History/iBlast_Moki/1/)
 
-[iBlast Moki](/Docs/History/iBlast_Moki/1/)
+[iBlast 1](/Docs/Gameplay/Games/iBlast/1/)
 
 [iBlast Moki 2](/Docs/History/iBlast_Moki/2/)
+
+[iBlast 2](/Docs/Gameplay/Games/iBlast/2/)
+
+[iBlast 3](/Docs/Gameplay/Games/iBlast/3/)
+
+[iBlast 3D](/Docs/Gameplay/Games/iBlast/3D/)
 
 [Level Editor](/Docs/Gameplay/Level-Editor/)
 
@@ -47,9 +55,9 @@
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `1 (2022, Thursday, August 4th at 5:26 pm PST)`
+**File version:** `2 (2022, Saturday, August 6th at 5:13 pm PST)`
 
-**Line count (including blank lines and compiler line):** `90`
+**Line count (including blank lines and compiler line):** `112`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -81,6 +89,20 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - [x] Added the `file info` section
 - [x] Added the `file history` section
 - [ ] No other changes in version 1
+
+</details>
+
+<details><summary><p lang="en"><b>Version 2 (2022, Saturday, August 6th at 5:13 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Added the preceeded by, succeeded by section
+- [x] Updated the `see also` minisection
+- [x] Updated the `file info` section
+- [x] Updated the `file history` section
+- [ ] No other changes in version 2
 
 </details>
 

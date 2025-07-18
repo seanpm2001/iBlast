@@ -21,11 +21,6 @@ Special thanks to Romain Gauthier for the original games soundtrack, which you c
 
 _🌐 List of languages_
 
-<!--
-<details open>
-	<summary>[Click/tap here to expand/collapse the language list</summary>
-!-->
-
 **Sorted by:** `A-Z`
 
 [Sorting options unavailable](https://github.com/Engineer_Superdesk)
@@ -38,92 +33,35 @@ Note: due to limitations with GitHub's interpretation of markdown (and pretty mu
 
 Translations are done with Google Translate due to limited or no support for the languages I need in other translation services like DeepL and Bing Translate. I am working on finding an alternative. For some reason, the formatting (links, dividers, bolding, italics, etc.) is messed up in various translations. It is tedious to fix, and I do not know how to fix these issues in languages with non-latin characters, and right to left languages (like Arabic) extra help is needed in fixing these issues
 
-<!--
-</details>
-!-->
-
 ***
-
-<!--
-<details open>
-	<summary>[Click/tap here to expand/collapse the index]</summary>
-!-->
 
 ## Index
 
-[00.0 - Top](#Top)
-
-> [00.1 - Title](#iBlast-Game)
-
-> [00.2 - Read this article in a different language](#Read-this-article-in-a-different-language)
-
-> [00.3 - Index](#Index)
-
-[01.0 - About](#About)
-
-[02.0 - Builds](#Builds)
-
-[03.0 - Wiki](#Wiki)
-
-[04.0 - Sponsor info](#Sponsor-info)
-
-[05.0 - Version history](#Version-history)
-
-[06.0 - Software status](#Software-status)
-
-[07.0 - Issues](#Issues)
-
-> [07.1 - Current issues](#Current-issues)
-
-> [07.2 - Past issues](#Past-issues)
-
-> [07.3 - Past pull requests](#Past-pull-requests)
-
-> [07.4 - Active pull requests](#Active-pull-requests)
-
-[08.0 - Resources](#Resources)
-
-[09.0 - History](#History)
-
-[10.0 - Contributors](#Contributors)
-
-[11.0 - Contributing](#Contributing)
-
-[12.0 - File info](#File-info)
-
-[13.0 - File history](#File-history)
-
-[14.0 - Footer](#Footer)
-
-> [14.9 - EOF](#EOF)
-
-<!--
-</details>
-!-->
-
-<!--
-
-# Index
-
-[00.0 - Top](#Top)
-
-[01.0 - Index](#Index)
-
-[02.0 - Description](#iBlast)
-
-[03.0 - About](#About)
-
-[04.0 - Wiki](#Wiki)
-
-[05.0 - Version history](#Version-history)
-
-[06.0 - Contributers](#Contributers)
-
-[07.0 - About README](#About-README)
-
-[08.0 - Footer](#You-have-reached-the-end-of-the-README-file)
-
-!-->
+- [00.0 - Top](#Top)
+- - [00.1 - Title](#iBlast-Game)
+- - [00.2 - Read this article in a different language](#Read-this-article-in-a-different-language)
+- - [00.3 - Index](#Index)
+- [01.0 - About](#About)
+- [02.0 - Builds](#Builds)
+- [03.0 - Development pause](#Development-pause)
+- [04.0 - Desired development resources](#Desired-development-resources)
+- [05.0 - Wiki](#Wiki)
+- [06.0 - Sponsor info](#Sponsor-info)
+- [07.0 - Version history](#Version-history)
+- [08.0 - Software status](#Software-status)
+- [09.0 - Issues](#Issues)
+- - [09.1 - Current issues](#Current-issues)
+- - [09.2 - Past issues](#Past-issues)
+- - [09.3 - Past pull requests](#Past-pull-requests)
+- - [09.4 - Active pull requests](#Active-pull-requests)
+- [10.0 - Resources](#Resources)
+- [11.0 - History](#History)
+- [12.0 - Contributors](#Contributors)
+- [13.0 - Contributing](#Contributing)
+- [14.0 - File info](#File-info)
+- [15.0 - File history](#File-history)
+- [16.0 - Footer](#Footer)
+- - [16.9 - EOF](#EOF)
 
 # iBlast
 A recreation of the award winning mobile games iBlast Moki and iBlast Moki 2, as the apps are no longer updates (they no longer work as of Android 7.0 and iOS 11) I also want to build on the concept, and also provide an open-source, and less buggy version of the games, plus a new version that is fan-made.
@@ -139,6 +77,29 @@ See above. This is a recreation of the iBlast Moki 1 and 2 games by Godzilab, wh
 ## Builds
 
 There are no public builds of this game yet.
+
+***
+
+## Development pause
+
+Development of this project first paused on 2022, August 6th, with one small delay in the pause on 2022, November 18th, where I created a documentation repository.
+
+On 2025, Saturday, June 21st. I received an email about the development of the project, which spurred some interest again.
+
+Less than a month later, on 2025, Wednesday, July 16th, development resumed, with the creation of an overworld data repository, followed by updates to the main iBlast repository the next day (2025, Thursday, July 17th)
+
+A major hurdle in the development of iBlast is a lack of a proper reference. I am still unable to find an `*.ipa` or `*.apk` file for iBlast Moki and iBlast Moki 2. I hope to find one eventually. I just don't have a lot to go off of as a development reference, so development is hard/impossible right now.
+
+***
+
+## Desired development resources
+
+- [ ] A copy of iBlast Moki (2009) (either APK or IPA, hopefully both)
+- [ ] A copy of iBlast Moki 2 (2011) (either APK or IPA, hopefully both)
+- [x] A copy of iBlast Moki (2009) soundtrack (received via Bandcamp)
+- [x] A copy of iBlast Moki 2 (2011) soundtrack (received via Bandcamp)
+- [ ] Some gameplay videos of iBlast Moki (2009)
+- [ ] Some gameplay videos of iBlast Moki 2 (2009)
 
 ***
 
@@ -288,17 +249,15 @@ Contributions are allowed for this project, as long as you follow the rules of t
 
 ***
 
-## About README
+## File info
 
-File type: `Markdown (*.md)`
-
-File version: `2 (Monday, June 28th 2021 at 8:30 pm)`
-
-Line count: `0,404`
+- File type: `Markdown document (*.md *.mkd *.mdown *.markdown)`
+- File version: `3 (2025, Thursday, July 17th at 06:43 pm PST)`
+- Line count (including blank lines and compiler line: `0,369`
 
 ***
 
-## README version history
+## File history
 
 Version 1 (Tuesday, July 14th 2020 at 5:28 pm)
 
@@ -374,13 +333,19 @@ Version 2 (Monday, June 28th 2021 at 8:30 pm)
 
 > * No other changes in version 2
 
-Version 3 (Coming soon)
+Version 3 (2025, Thursday, July 17th at 06:43 pm PST)
 
 > Changes:
 
-> * Coming soon
-
-> * No other changes in version 3
+- [x] Added the `Development pause` section
+- [x] Added the `Desired development resources` section
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 3
+- - [x] Renamed from `README version history` to `File history`
+- [x] Updated the `File info` section
+- - [x] Renamed from `About README` to `File info`
+- [x] Updated the index section
+- [ ] No other changes in version 3
 
 Version 4 (Coming soon)
 
